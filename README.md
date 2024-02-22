@@ -1,9 +1,5 @@
 # Auto-Suggest Next Word
 
-## Authors
-- Sree Krishna Suresh
-- Pareekshit Reddy Gaddam
-
 ## 1. Summary
 Predicting the next word is a fundamental task in Natural Language Processing (NLP) with various applications, from minimizing keystrokes in typing to enhancing customer experience in search algorithms. This project explores different language model architectures, including n-gram models, Long Short-Term Memory (LSTM) neural networks, and Generative Pre-trained Transformer (GPT), to predict the next word in a sequence of text data. We evaluate these models using two text corpora: The Republic of Plato and The complete works of William Shakespeare.
 
